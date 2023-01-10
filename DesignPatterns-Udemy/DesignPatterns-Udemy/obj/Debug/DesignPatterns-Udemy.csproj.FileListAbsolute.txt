@@ -1,0 +1,8 @@
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\bin\Debug\DesignPatterns-Udemy.exe.config
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\bin\Debug\DesignPatterns-Udemy.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\bin\Debug\DesignPatterns-Udemy.pdb
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\obj\Debug\DesignPatterns-Udemy.csproj.AssemblyReference.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\obj\Debug\DesignPatterns-Udemy.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\obj\Debug\DesignPatterns-Udemy.csproj.CoreCompileInputs.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\obj\Debug\DesignPatterns-Udemy.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DesignPatterns-Udemy\obj\Debug\DesignPatterns-Udemy.pdb
