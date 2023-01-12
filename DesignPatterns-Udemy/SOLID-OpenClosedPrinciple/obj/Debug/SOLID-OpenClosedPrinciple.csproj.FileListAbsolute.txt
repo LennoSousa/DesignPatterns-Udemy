@@ -1,0 +1,8 @@
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\bin\Debug\SOLID-OpenClosedPrinciple.exe.config
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\bin\Debug\SOLID-OpenClosedPrinciple.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\bin\Debug\SOLID-OpenClosedPrinciple.pdb
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\obj\Debug\SOLID-OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\obj\Debug\SOLID-OpenClosedPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\obj\Debug\SOLID-OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\obj\Debug\SOLID-OpenClosedPrinciple.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-OpenClosedPrinciple\obj\Debug\SOLID-OpenClosedPrinciple.pdb
