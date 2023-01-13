@@ -19,8 +19,8 @@ namespace SOLID_LiskovSubstitutionPrinciple
             //continuar realizando as operações base da classe pai, que foram extendidas para
             //essa nova classe filha, sem quebrar a implementação já existente.
             
-            /* Sempre que poss;ivel, pensar se podemos utilizar o LSP em algum momento da criaçÃo
-            de uma aplicação, e já preparar para tal. */
+            /* Sempre que possíivel, pensar se podemos utilizar o LSP em algum momento da criação
+               ou manutenção de uma aplicação. */
             
             NubankRewards card = new NubankRewards();
 
