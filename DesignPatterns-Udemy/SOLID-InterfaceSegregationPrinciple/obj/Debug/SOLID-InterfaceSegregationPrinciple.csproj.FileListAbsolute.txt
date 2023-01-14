@@ -1,0 +1,8 @@
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\bin\Debug\SOLID-InterfaceSegregationPrinciple.exe.config
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\bin\Debug\SOLID-InterfaceSegregationPrinciple.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\bin\Debug\SOLID-InterfaceSegregationPrinciple.pdb
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\obj\Debug\SOLID-InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\obj\Debug\SOLID-InterfaceSegregationPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\obj\Debug\SOLID-InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\obj\Debug\SOLID-InterfaceSegregationPrinciple.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-InterfaceSegregationPrinciple\obj\Debug\SOLID-InterfaceSegregationPrinciple.pdb
