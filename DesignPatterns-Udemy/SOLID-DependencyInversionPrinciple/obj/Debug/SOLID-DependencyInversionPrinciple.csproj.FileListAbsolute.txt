@@ -1,0 +1,8 @@
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\obj\Debug\SOLID-DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\obj\Debug\SOLID-DependencyInversionPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\obj\Debug\SOLID-DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\bin\Debug\SOLID-DependencyInversionPrinciple.exe.config
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\bin\Debug\SOLID-DependencyInversionPrinciple.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\bin\Debug\SOLID-DependencyInversionPrinciple.pdb
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\obj\Debug\SOLID-DependencyInversionPrinciple.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\SOLID-DependencyInversionPrinciple\obj\Debug\SOLID-DependencyInversionPrinciple.pdb
