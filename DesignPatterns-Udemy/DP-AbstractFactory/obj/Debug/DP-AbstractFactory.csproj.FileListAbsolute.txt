@@ -1,0 +1,8 @@
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\bin\Debug\DP-AbstractFactory.exe.config
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\bin\Debug\DP-AbstractFactory.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\bin\Debug\DP-AbstractFactory.pdb
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\obj\Debug\DP-AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\obj\Debug\DP-AbstractFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\obj\Debug\DP-AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\obj\Debug\DP-AbstractFactory.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-AbstractFactory\obj\Debug\DP-AbstractFactory.pdb
