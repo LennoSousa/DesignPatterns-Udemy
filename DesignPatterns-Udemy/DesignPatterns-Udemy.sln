@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-InterfaceSegregationP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-DependencyInversionPrinciple", "SOLID-DependencyInversionPrinciple\SOLID-DependencyInversionPrinciple.csproj", "{A6F3FC66-C89F-49EF-A537-167043F98B60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP-FactoryMethod", "DP-FactoryMethod\DP-FactoryMethod.csproj", "{B0E05278-5D05-403F-A958-26A37685BFCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A6F3FC66-C89F-49EF-A537-167043F98B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F3FC66-C89F-49EF-A537-167043F98B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F3FC66-C89F-49EF-A537-167043F98B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E05278-5D05-403F-A958-26A37685BFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E05278-5D05-403F-A958-26A37685BFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E05278-5D05-403F-A958-26A37685BFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E05278-5D05-403F-A958-26A37685BFCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
