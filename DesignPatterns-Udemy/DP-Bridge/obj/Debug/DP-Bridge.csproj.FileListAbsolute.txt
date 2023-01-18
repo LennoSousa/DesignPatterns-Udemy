@@ -1,0 +1,8 @@
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\bin\Debug\DP-Bridge.exe.config
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\bin\Debug\DP-Bridge.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\bin\Debug\DP-Bridge.pdb
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\obj\Debug\DP-Bridge.csproj.AssemblyReference.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\obj\Debug\DP-Bridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\obj\Debug\DP-Bridge.csproj.CoreCompileInputs.cache
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\obj\Debug\DP-Bridge.exe
+C:\Users\lenno\Documents\Git\DesignPatterns-Udemy\DesignPatterns-Udemy\DP-Bridge\obj\Debug\DP-Bridge.pdb
